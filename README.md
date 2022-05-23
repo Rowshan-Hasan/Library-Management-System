@@ -7,4 +7,4 @@ Finally this project has an automated exit of 3 second after selecting exit.
  
 
 Password- 2022160
-Althogh there are very few cross-checks in this project, so please do a proper data entry. 
+Although there are very few cross-checks in this project, so please do a proper data entry. 
