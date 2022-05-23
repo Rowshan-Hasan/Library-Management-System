@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1653194878 source:d:\1st semester\final project cse\library management system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
