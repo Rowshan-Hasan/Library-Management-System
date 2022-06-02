@@ -6,5 +6,5 @@ All the book list and issue list is maintained for proper management.
 Finally this project has an automated exit of 3 second after selecting exit. 
  
 
-Password- 2022160
+
 Although there are very few cross-checks in this project, so please do a proper data entry. 
